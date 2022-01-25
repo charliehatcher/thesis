@@ -16,9 +16,9 @@ i=${PBS_ARRAYID}
 
 cd /~/001_projects/002_selection/genetic_drift
 
-input_file="/~/001_projects/002_selection/gctb_1.0_Linux/data/output/BayesNS/ESS_SNPs_a/cpg$i.snpRes"
+input_file="/~/001_projects/002_selection/gctb_1.0_Linux/data/output/BayesNS/cpg$i.snpRes"
 
-output_file="ESS_a/cpg$i"
+output_file="cpg$i"
 
 Rscript run_data.R ${input_file} ${output_file} 0.15 1 
 
