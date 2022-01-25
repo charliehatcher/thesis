@@ -4,5 +4,5 @@ Supervisors: [Tom Gaunt](https://research-information.bris.ac.uk/en/persons/tom-
 
 This GitHub respository houses scripts and tables for my thesis. 
 
-* The repository is split by chapter with the following directories: `chapter 3`, `chapter 4`, `chapter 5`, `chapter 6`
+* The repository is split by chapter with the following directories: `chapter3`, `chapter4`, `chapter5`, `chapter6`
 * Within each chapter directory are the following directories: `scripts` and `tables` 
